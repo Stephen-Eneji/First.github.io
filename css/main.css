@@ -1,6 +1,6 @@
 h1 {
     color: orange;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial;
     font-weight: bold;
     text-align: center ;
     background-color: blue;
@@ -15,7 +15,7 @@ p {
 }
 
 .first {
-    font-size: 200%;
+    font-size: 500%;
 }
 
 #intro .first {
