@@ -1,23 +1,14 @@
-h1 {
-    color: orange;
-    font-family: Arial;
-    font-weight: bold;
-    text-align: center ;
-    background-color: blue;
+a {
+    text-decoration: none;
 }
 
-p {
-    font-size: 130%;
+#wrap {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 5%;
 }
 
-#intro {
-    background-color: yellow;
-}
-
-.first {
-    font-size: 500%;
-}
-
-#intro .first {
-    color: Red;
+#logo {
+    text-align: center;
+    margin: 0;
 }
