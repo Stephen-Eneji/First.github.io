@@ -2,13 +2,24 @@ a {
     text-decoration: none;
 }
 
-#wrap {
+#wrapper { 
     max-width: 960px;
     margin: 0 auto;
     padding: 0 5%;
+    background: orange;
 }
 
 #logo {
     text-align: center;
     margin: 0;
+}
+
+a { 
+    color: #6ab47b;
+}
+
+header {
+    background: #6ab47b;
+    border-color: #599a68;
+
 }
